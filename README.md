@@ -30,11 +30,6 @@ vba_module.bas → Exported VBA code module
 README.md → Project documentation
 
 
-🖼️ Screenshot
-
-(Sales_Report.png)
-
-
 🚀 How to Use
 
 1. Download the Sales_Data.xlsm file from this repository
