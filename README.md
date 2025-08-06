@@ -48,9 +48,13 @@ Report Sheet:
 Product TotalQuantity TotalSales
 
 Product D 219 130,093.00
+
 Product A 158 93,425.00
+
 Product B 122 80,905.00
+
 Product E 37 24,625.00
+
 Product C 53 16,341.00
 
 
