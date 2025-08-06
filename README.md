@@ -32,9 +32,7 @@ README.md → Project documentation
 
 🖼️ Screenshot
 
-(Add your sales chart screenshot here)
-
-![Sales Report Screenshot](Sales_Report.png)
+(Sales_Report.png)
 
 
 🚀 How to Use
